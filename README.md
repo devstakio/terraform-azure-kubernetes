@@ -1,3 +1,4 @@
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Providers
 
 | Name | Version |
@@ -27,3 +28,5 @@
 | identity\_resource\_id | n/a |
 | kube\_config | n/a |
 | node\_resource\_group | n/a |
+
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->

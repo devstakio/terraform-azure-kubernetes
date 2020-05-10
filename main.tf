@@ -38,7 +38,7 @@ resource "azurerm_kubernetes_cluster" "kubernetes_cluster" {
   }
 
   // TODO might set to true. Need a VPN connect to the environment first
-  private_link_enabled = false
+  private_cluster_enabled = false
 
   addon_profile {
     aci_connector_linux {
